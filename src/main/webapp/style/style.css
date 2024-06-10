@@ -1,0 +1,31 @@
+.navbar-nav {
+    flex: 1;
+    justify-content: center;
+}
+.main-menu{
+    background-color: #FF8C00;
+}
+.footer {
+    background-color: #0B5EA0;
+}
+/*css login*/
+.form-login {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    max-width: 450px;
+    width: 100%;
+    margin:200px auto;
+}
+
+.form-login .checkbox {
+    font-weight: 400;
+}
+
+.form-login .form-floating:focus-within {
+    z-index: 2;
+}
+#mo-ta-sp{
+    widht: 150px;
+}
